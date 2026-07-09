@@ -1,1 +1,1 @@
-console.log("Rosi Pratas");
+search.oninput=e=>document.querySelectorAll('.card').forEach(c=>c.style.display=c.dataset.name.toLowerCase().includes(e.target.value.toLowerCase())?'block':'none');

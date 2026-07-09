@@ -1,1 +1,1 @@
-Envie os arquivos para um repositório GitHub e ative GitHub Pages.
+Parte 1 do redesign premium.
